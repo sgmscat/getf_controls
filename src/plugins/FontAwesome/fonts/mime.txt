@@ -1,0 +1,3 @@
+.svg             image/svg+xml
+.woff            application/x-font-woff
+.woff2          application/x-font-woff
